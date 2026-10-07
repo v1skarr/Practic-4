@@ -1,0 +1,15 @@
+E:\tweaks\project VS\ConsoleRPG\ConsoleRPG\bin\Debug\net10.0\ConsoleRPG.exe
+E:\tweaks\project VS\ConsoleRPG\ConsoleRPG\bin\Debug\net10.0\ConsoleRPG.deps.json
+E:\tweaks\project VS\ConsoleRPG\ConsoleRPG\bin\Debug\net10.0\ConsoleRPG.runtimeconfig.json
+E:\tweaks\project VS\ConsoleRPG\ConsoleRPG\bin\Debug\net10.0\ConsoleRPG.dll
+E:\tweaks\project VS\ConsoleRPG\ConsoleRPG\bin\Debug\net10.0\ConsoleRPG.pdb
+E:\tweaks\project VS\ConsoleRPG\ConsoleRPG\obj\Debug\net10.0\ConsoleRPG.GeneratedMSBuildEditorConfig.editorconfig
+E:\tweaks\project VS\ConsoleRPG\ConsoleRPG\obj\Debug\net10.0\ConsoleRPG.AssemblyInfoInputs.cache
+E:\tweaks\project VS\ConsoleRPG\ConsoleRPG\obj\Debug\net10.0\ConsoleRPG.AssemblyInfo.cs
+E:\tweaks\project VS\ConsoleRPG\ConsoleRPG\obj\Debug\net10.0\ConsoleRPG.csproj.CoreCompileInputs.cache
+E:\tweaks\project VS\ConsoleRPG\ConsoleRPG\obj\Debug\net10.0\ConsoleRPG.dll
+E:\tweaks\project VS\ConsoleRPG\ConsoleRPG\obj\Debug\net10.0\refint\ConsoleRPG.dll
+E:\tweaks\project VS\ConsoleRPG\ConsoleRPG\obj\Debug\net10.0\ConsoleRPG.pdb
+E:\tweaks\project VS\ConsoleRPG\ConsoleRPG\obj\Debug\net10.0\ConsoleRPG.genruntimeconfig.cache
+E:\tweaks\project VS\ConsoleRPG\ConsoleRPG\obj\Debug\net10.0\ref\ConsoleRPG.dll
+E:\tweaks\project VS\ConsoleRPG\ConsoleRPG\obj\Debug\net10.0\ConsoleRPG.csproj.Up2Date
